@@ -12,3 +12,17 @@ var a = 9;
 //Step 6 String
 var myName = "Ivan";
 var myLastName = "Pasechnikov";
+
+var a = 5;
+var b = 10;
+var c = "I am a";
+a = a + 1;
+b = b + 1;
+c = c + "String";
+console.log(a);
+console.log(b);
+console.log(c);
+
+// key word let - объявить переменную с помощью let можно только ОДИН раз
+let canName = "Oliver";
+let catSound = "Meow";
