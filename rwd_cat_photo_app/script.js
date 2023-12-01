@@ -26,3 +26,17 @@ console.log(c);
 // key word let - объявить переменную с помощью let можно только ОДИН раз
 let canName = "Oliver";
 let catSound = "Meow";
+
+// ключевое слово const
+
+/* Step 10
+var fCC = "freeCodeCamp"; // Change this line
+var fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(fCC, fact); // Change this line
+*/
+
+const FCC = "freeCodeCamp";
+let fact = "is cool";
+fact = "is awsome";
+console.log(FCC, fact);
