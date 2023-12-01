@@ -40,3 +40,11 @@ const FCC = "freeCodeCamp";
 let fact = "is cool";
 fact = "is awsome";
 console.log(FCC, fact);
+
+// Step 11 addition сложение
+const addition = 45 + 15;
+console.log(addition);
+
+//Step 12 Subtraction вычетание
+const difference = 45 - 33;
+console.log(difference);
