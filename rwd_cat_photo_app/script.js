@@ -52,3 +52,7 @@ console.log(difference);
 //Step 13 multiply
 const multiply = 4 * 4;
 console.log();
+
+// Step 14 divide
+const quotient = 66 / 33;
+console.log(quotient);
