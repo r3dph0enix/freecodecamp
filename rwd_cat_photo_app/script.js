@@ -56,3 +56,7 @@ console.log();
 // Step 14 divide
 const quotient = 66 / 33;
 console.log(quotient);
+
+//Step 15 incriment увеличение
+let myVar = 99;
+myVar++;
