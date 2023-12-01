@@ -48,3 +48,7 @@ console.log(addition);
 //Step 12 Subtraction вычетание
 const difference = 45 - 33;
 console.log(difference);
+
+//Step 13 multiply
+const multiply = 4 * 4;
+console.log();
