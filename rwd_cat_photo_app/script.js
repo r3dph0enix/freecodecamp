@@ -60,3 +60,12 @@ console.log(quotient);
 //Step 15 incriment увеличение
 let myVar = 99;
 myVar++;
+
+//Step 16 Decrement уменьшнеие
+let myVar1 = 100;
+myVar1--;
+console.log(myVar1);
+
+//Step 17 decimal numbers
+let myDecimal = 5.8;
+console.log(myDecimal);
