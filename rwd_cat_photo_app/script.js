@@ -74,3 +74,16 @@ console.log(myDecimal);
 // step 18 devide
 let quotient1 = myDecimal / 2.2;
 console.log(quotient1);
+
+//Step 20 поиск остатка
+let reminder = 11 % 3;
+console.log(reminder);
+
+//Step 21 составное присваивание
+let x = 3;
+let y = 17;
+let z = 12;
+x +=12;
+y +=9;
+z +=7;
+console.log(x, y, z);
