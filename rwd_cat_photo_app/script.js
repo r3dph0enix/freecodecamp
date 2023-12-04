@@ -71,3 +71,6 @@ let myDecimal = 5.8;
 console.log(myDecimal);
 myDecimal = myDecimal * 2.5;
 console.log(myDecimal);
+// step 18 devide
+let quotient1 = myDecimal / 2.2;
+console.log(quotient1);
