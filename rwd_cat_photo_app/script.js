@@ -69,3 +69,5 @@ console.log(myVar1);
 //Step 17 decimal numbers
 let myDecimal = 5.8;
 console.log(myDecimal);
+myDecimal = myDecimal * 2.5;
+console.log(myDecimal);
