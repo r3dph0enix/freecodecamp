@@ -126,3 +126,11 @@ const myStr3 =  "My name is " + myName1 + " and I am well!";
 const someAdjective1 = "cool!";
 let myStr32 = "Learning to code is ";
 myStr32 += someAdjective1;
+
+//Step 32 длина строки
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
