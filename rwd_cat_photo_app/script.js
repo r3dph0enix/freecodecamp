@@ -121,3 +121,8 @@ myStr += " This is the second sentence.";
 // Step 30 создание строк с переменными
 const myName1 = "Ivan";
 const myStr3 =  "My name is " + myName1 + " and I am well!";
+
+//Step 31 Appending Variables to Strings
+const someAdjective1 = "cool!";
+let myStr32 = "Learning to code is ";
+myStr32 += someAdjective1;
