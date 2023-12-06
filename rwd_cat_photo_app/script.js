@@ -117,4 +117,7 @@ let myStr2 = "This is the start. " + "This is the end.";
 console.log(myStr2);
 //Step 28
 let myStr = "This is the first sentence.";
-myStr += " This is the second sentence." 
+myStr += " This is the second sentence.";
+// Step 30 создание строк с переменными
+const myName1 = "Ivan";
+const myStr3 =  "My name is " + myName1 + " and I am well!";
