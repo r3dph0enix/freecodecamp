@@ -150,3 +150,6 @@ myStr33 = "Hello World!";
 
  //step 36 поиск последнего символа
  const lastLetterOfLastName = lastName[lastName.length-1];
+ const secondToLastLetterOfLastName = lastName[lastName.length-2];
+
+ 
