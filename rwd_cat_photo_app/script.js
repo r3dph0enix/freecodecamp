@@ -114,4 +114,7 @@ console.log(myStr);
 
 // Step 28 соединение строк
 let myStr2 = "This is the start. " + "This is the end.";
-console.log(myStr2); 
+console.log(myStr2);
+//Step 28
+let myStr = "This is the first sentence.";
+myStr += " This is the second sentence." 
