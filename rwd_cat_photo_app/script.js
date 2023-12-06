@@ -143,3 +143,7 @@ firstLetterOfLastName = lastName1[0];
 //Step 34 Understand String Immutability
 let myStr33 = "Jello World!";
 myStr33 = "Hello World!";
+
+//step 35 поиск н-го символа
+ const lastName5 = "Lovelace";
+ const thirdLetterOfLastName = lastName5[2];
