@@ -147,3 +147,6 @@ myStr33 = "Hello World!";
 //step 35 поиск н-го символа
  const lastName5 = "Lovelace";
  const thirdLetterOfLastName = lastName5[2];
+
+ //step 36 поиск последнего символа
+ const lastLetterOfLastName = lastName[lastName.length-1];
