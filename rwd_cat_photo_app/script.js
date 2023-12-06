@@ -134,3 +134,9 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 lastNameLength = lastName.length;
+
+//Step 33 поиск символа в строке
+//setup
+let firstLetterOfLastName = "";
+const lastName1 = "Lovelace";
+firstLetterOfLastName = lastName1[0];
