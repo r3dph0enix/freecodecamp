@@ -103,3 +103,15 @@ z *=15;
 x /= 2;
 y /= 5;
 z /= 6;
+
+// Step 25 
+let myStr1 = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+// Step 26
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+//Step 27 escape
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+console.log(myStr);
+
+// Step 28 соединение строк
+let myStr2 = "This is the start. " + "This is the end.";
+console.log(myStr2); 
