@@ -152,4 +152,10 @@ myStr33 = "Hello World!";
  const lastLetterOfLastName = lastName[lastName.length-1];
  const secondToLastLetterOfLastName = lastName[lastName.length-2];
 
- 
+ //step 37 пробелы в строках
+ const myNoun =  "dog";
+ const myAdjective = "big";
+ const myVerb = "ran";
+ const myAdverb = "quickly";
+
+ const wordBlanks = myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb;
